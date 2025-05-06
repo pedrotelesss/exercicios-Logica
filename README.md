@@ -13,7 +13,7 @@ Os exercícios estão organizados por tópicos e níveis de dificuldade, com com
 - Funções simples
 
 ## Tecnologias:
-- Linguagem utilizada: Python
+- Linguagem utilizada: `Python`
 - Editor: pyCharm
 
 ## Objetivo:
